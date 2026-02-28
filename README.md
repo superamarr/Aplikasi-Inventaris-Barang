@@ -149,7 +149,6 @@ Semua konstanta visual terpusat di `lib/utils/app_colors.dart`.
 | Kategori | Warna |
 |---|---|
 | Elektronik | `#E8601C` (orange) |
-| Audio | `#90A4AE` (blue-grey) |
 | Furnitur | `#E8601C` (orange) |
 | Dekorasi | `#E8601C` (orange) |
 | Logistik | `#E8601C` (orange) |
@@ -203,7 +202,6 @@ Item copyWith({ String? name, int? stock, ... }) { ... }
 | Kategori | Icon |
 |---|---|
 | ELEKTRONIK | `Icons.laptop_mac` |
-| AUDIO | `Icons.headphones` |
 | FURNITUR | `Icons.chair` |
 | DEKORASI | `Icons.watch_later_outlined` |
 | LOGISTIK | `Icons.local_shipping` |
