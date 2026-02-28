@@ -54,12 +54,6 @@
 | `get` | `^4.7.3` | State management, navigasi, dan snackbar/dialog |
 | `image_picker` | `^1.1.2` | Memilih foto dari galeri perangkat |
 
-### Dev Dependensi
-
-| Package | Versi | Fungsi |
-|---|---|---|
-| `flutter_lints` | `^6.0.0` | Lint rules untuk kualitas kode |
-
 ---
 
 ## 3. Struktur Direktori
