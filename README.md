@@ -1,9 +1,7 @@
 # 📦 Dokumentasi Proyek — Inventaris Barang
 
-> **Mata Kuliah:** Pemrograman Aplikasi Bergerak (PAB)  
-> **Jenis Proyek:** Mini Project 1  
-> **Platform:** Flutter (Mobile & Web)  
-> **Versi:** 0.1.0
+> **Jenis Proyek:** Aplikasi Inventaris Barang
+> **Tech Stack:** Flutter (Mobile & Web)  
 
 ---
 
@@ -314,8 +312,8 @@ Daftar barang ditampilkan menggunakan `ListView.builder` yang memuat widget `Ite
 <td width="35%" valign="top" align="center">
 
 <!-- Tambahkan screenshot halaman utama di sini -->
-> 📷 *Tambahkan screenshot*
-> *halaman utama di sini*
+<img width="331" height="626" alt="image" src="https://github.com/user-attachments/assets/d95baa79-54b8-48c6-9bd9-aab669818d58" />
+
 
 </td>
 </tr>
@@ -488,8 +486,8 @@ Satuan  : Pcs / Buah | Unit | Set | Lusin | Kg
 <td width="35%" valign="top" align="center">
 
 <!-- Tambahkan screenshot halaman Edit Barang di sini -->
-> 📷 *Tambahkan screenshot*
-> *halaman edit barang di sini*
+<img width="330" height="627" alt="image" src="https://github.com/user-attachments/assets/24fa0417-456c-4036-a7f4-0bbcddc91d04" />
+
 
 </td>
 </tr>
@@ -604,7 +602,7 @@ Widget kartu yang menampilkan **ringkasan informasi** satu barang dalam daftar i
                     │   (GetView)           │
                     └──────┬───────┬────────┘
                            │       │
-             Tekan FAB (+) │       │ Tekan "Edit" di ItemCard
+             Tekan(+) │       │ Tekan "Edit" di ItemCard
                            ▼       ▼
                 ┌──────────────┐  ┌──────────────────┐
                 │  TambahBarang│  │  EditBarang       │
@@ -685,5 +683,3 @@ Semua Snackbar menggunakan:
 > **Foto** — Disimpan sebagai `Uint8List` (byte array) di memori. Untuk skala produksi, sebaiknya disimpan ke penyimpanan lokal atau cloud storage.
 
 ---
-
-*Dokumentasi ini dibuat untuk keperluan akademik Pratikum Mini Project 1 - Pemrograman Aplikasi Bergerak (PAB) Semester 4.*
