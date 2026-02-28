@@ -670,7 +670,7 @@ Semua Snackbar menggunakan:
 
 ## 13. Daftar Widget yang Digunakan
 
-Bagian ini mendokumentasikan **semua widget Flutter** — baik bawaan (built-in) maupun kustom — yang digunakan dalam proyek ini, lengkap dengan penjelasan fungsi dan konteks penggunaannya.
+Bagian ini mendokumentasikan **semua widget Flutter** baik bawaan (built-in) maupun kustom yang digunakan dalam proyek ini.
 
 ---
 
