@@ -394,8 +394,8 @@ Future<void> _navigateToEdit(int index) async {
 <td width="35%" valign="top" align="center">
 
 <!-- Tambahkan screenshot halaman Tambah Barang di sini -->
-> 📷 *Tambahkan screenshot*
-> *halaman tambah barang di sini*
+<img width="328" height="630" alt="image" src="https://github.com/user-attachments/assets/6077dd4e-ee05-4aba-b6b3-bfbd835e817d" />
+
 
 </td>
 </tr>
