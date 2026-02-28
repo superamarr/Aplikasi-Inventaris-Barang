@@ -665,13 +665,3 @@ Semua Snackbar menggunakan:
 - Teks: **Putih**
 
 ---
-
-## 📝 Catatan Pengembangan
-
-> **Data tidak persisten** — Semua data barang disimpan di memori (in-memory `RxList`) dan akan hilang saat aplikasi ditutup. Untuk persistensi data, pertimbangkan integrasi dengan **SQLite** (`sqflite`), **SharedPreferences**, atau **Hive**.
-
-> **ID Barang** — Dibuat dari `DateTime.now().millisecondsSinceEpoch.toString()` sehingga unik secara praktis, namun tidak dijamin unik dalam kasus ekstrem (barang ditambah bersamaan).
-
-> **Foto** — Disimpan sebagai `Uint8List` (byte array) di memori. Untuk skala produksi, sebaiknya disimpan ke penyimpanan lokal atau cloud storage.
-
----
